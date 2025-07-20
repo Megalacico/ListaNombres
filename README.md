@@ -17,6 +17,5 @@ Este es un programa en C++ que gestiona una lista de nombres utilizando un vecto
 - Librerías estándar: `iostream`, `vector`, `string`
 - Compilador recomendado: `g++` (MinGW o similar)
 
-  Autor
-
-Matt Silva
+## Autor
+Matt Silva - Estudiante de Ciencias de la Cumputacion en la UPC (Universidad de Ciencias Peruanas)
